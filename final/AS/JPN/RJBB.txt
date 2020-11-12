@@ -480,96 +480,98 @@ entrypoints =
 	82, SINGU
 
 airlines = 
-	jal, 10, b738/b763/b77l/b77w/b788/b789/a359, japan air, we
-	jal, 7, b738/b763/b77l/b77w/b788/b789/a359, japan air, ns
-	ana, 10, a320/a20n/a321/a21n/b737/b738/b763/b77w/b788/b789/b78x, all nippon, nswe
-	ana, 7, a320/a20n/a321/a21n/b737/b738/b763/b77w/b788/b789/b78x, all nippon, ns
-	jyh, 1, b738, trans jade, w
-	xax, 2, a333, xanadu, se
-	abl, 2, a320/a321, air busan, n
-	aci, 1, a339, air calin, s
-	cca, 3, a320/a20n/a321/a21n/a332/a359/b738/b772, air china, nw
-	aar, 3, a320/a321/a21n/a333/a359, asiana, n
-	cbj, 1, a320/a20n/a321/a21n/a332, capital jet, n
-	cpa, 3, a333/a359/a35k/b773/b77w, cathay, s
-	apj, 7, a320, air peach, nswe
-	sfj, 4, a320, star flyer, e
-	jta, 2, b738, jai ocean, s
-	cal, 3, a333/a359/b77w, dynasty, s
-	ceb, 1, a320/a20n/a321/a333, cebu air, s
-	ces, 3, a319/a320/a321/b737/b738/a332/a333, china eastern, nw
-	csn, 3, a319/a320/a20n/a321/a21n/a332/a333/a359/b737/b738/a388, china southern, nw
-	cua, 1, b737, lianhang, w
-	dal, 1, b763, delta, e
-	esr, 1, b738, eastar jet, n
-	uae, 1, b77w, emirates, w
-	eva, 3, b78x, eva, s
-	fin, 1, a359, finn air, n
-	gia, 2, a333/a339, indonesia, s
-	chh, 2, b738, hainan, wn
-	hal, 1, a332, hawaiian, e
-	hbh, 1, b738, hebei air, n
-	hke, 1, a320/a20n, hong kong shuttle, s
-	crk, 1, a332, bauhinia, s
-	jja, 2, b738, jeju air, ns
-	jst, 1, a332, jetstar, s
-	jsa, 1, a320, jetstar asia, s
-	jjp, 5, a320, orange liner, ensw
-	jna, 2, b738, jin air, n
-	dkh, 2, a320/a20n/a321, air juneyao, w
-	klm, 1, b789, k l m, n
-	kal, 3, a332/a333/b738/b748/b77w, korean air, n
-	cdc, 1, a320/a20n, loong air, w
-	dlh, 1, a359, lufthansa, n
-	mas, 1, a388/a332/a359, malaysian, s
-	mgl, 1, b738, mongol air, n
-	oka, 2, b738, okay jet, nw
-	pal, 1, a321/a333, philippine, s
-	apg, 1, a320, cool red, s
-	qfa, 1, a332, kwon tas, s
-	tgw, 1, a320/b788/b789, scooter, s
-	cdg, 1, b738, shandong, n
-	csh, 1, a333/b738, shanghai air, w
-	csz, 2, a320, shenzhen air, s
-	csc, 2, a319/a320/a20n/a321/a21n, sichuan, w
-	sia, 1, a359/a388/b78x, singapore, s
-	cqh, 2, a320, air spring, nw
-	tax, 1, a333/a339, express wing, s
-	tha, 1, a359/a388/b744, thai, s
-	tlm, 1, a333/a339/b738, mentari, s
-	gcr, 1, a320/a321/a332/a333, bohai, n
-	ttw, 1, a320, smart cat, s
-	thy, 1, a332/a333, turkish, n
-	twb, 1, b738, teeway, n
-	ual, 1, b788, united, es
-	vjc, 1, a320/a321/a21n, viet jet air, w
-	hvn, 1, a359/b789, viet nam airlines, w
-	chb, 1, a320, west china, w
-	cxa, 1, b737/b738, xiamen air, w
+	jal, 100, b738/b763/b77l/b77w/b788/b789/a359, japan air, we
+	jal, 70, b738/b763/b77l/b77w/b788/b789/a359, japan air, ns
+	ana, 100, a320/a20n/a321/a21n/b737/b738/b763/b77w/b788/b789/b78x, all nippon, nswe
+	ana, 70, a320/a20n/a321/a21n/b737/b738/b763/b77w/b788/b789/b78x, all nippon, ns
+	jyh, 10, b738, trans jade, w
+	xax, 20, a333, xanadu, se
+	abl, 20, a320/a321, air busan, n
+	aci, 10, a339, air calin, s
+	cca, 30, a320/a20n/a321/a21n/a332/a359/b738/b772, air china, nw
+	aar, 30, a320/a321/a21n/a333/a359, asiana, n
+	cbj, 10, a320/a20n/a321/a21n/a332, capital jet, n
+	cpa, 30, a333/a359/a35k/b773/b77w, cathay, s
+	apj, 70, a320, air peach, nswe
+	sfj, 40, a320, star flyer, e
+	jta, 20, b738, jai ocean, s
+	cal, 30, a333/a359/b77w, dynasty, s
+	ceb, 10, a320/a20n/a321/a333, cebu air, s
+	ces, 30, a319/a320/a321/b737/b738/a332/a333, china eastern, nw
+	csn, 30, a319/a320/a20n/a321/a21n/a332/a333/a359/b737/b738/a388, china southern, nw
+	cua, 10, b737, lianhang, w
+	dal, 10, b763, delta, e
+	esr, 10, b738, eastar jet, n
+	uae, 10, b77w, emirates, w
+	eva, 30, b78x, eva, s
+	fin, 10, a359, finn air, n
+	gia, 20, a333/a339, indonesia, s
+	chh, 20, b738, hainan, wn
+	hal, 10, a332, hawaiian, e
+	hbh, 10, b738, hebei air, n
+	hke, 10, a320/a20n, hong kong shuttle, s
+	crk, 10, a332, bauhinia, s
+	jja, 20, b738, jeju air, ns
+	jst, 10, a332, jetstar, s
+	jsa, 10, a320, jetstar asia, s
+	jjp, 50, a320, orange liner, ensw
+	jna, 20, b738, jin air, n
+	dkh, 20, a320/a20n/a321, air juneyao, w
+	klm, 10, b789, k l m, n
+	kal, 30, a332/a333/b738/b748/b77w, korean air, n
+	cdc, 10, a320/a20n, loong air, w
+	dlh, 10, a359, lufthansa, n
+	mas, 10, a388/a332/a359, malaysian, s
+	mgl, 10, b738, mongol air, n
+	oka, 20, b738, okay jet, nw
+	pal, 10, a321/a333, philippine, s
+	apg, 10, a320, cool red, s
+	qfa, 10, a332, kwon tas, s
+	tgw, 10, a320/b788/b789, scooter, s
+	cdg, 10, b738, shandong, n
+	csh, 10, a333/b738, shanghai air, w
+	csz, 20, a320, shenzhen air, s
+	csc, 20, a319/a320/a20n/a321/a21n, sichuan, w
+	sia, 10, a359/a388/b78x, singapore, s
+	cqh, 20, a320, air spring, nw
+	tax, 10, a333/a339, express wing, s
+	tha, 10, a359/a388/b744, thai, s
+	tlm, 10, a333/a339/b738, mentari, s
+	gcr, 10, a320/a321/a332/a333, bohai, n
+	ttw, 10, a320, smart cat, s
+	thy, 10, a332/a333, turkish, n
+	twb, 10, b738, teeway, n
+	ual, 10, b788, united, es
+	vjc, 10, a320/a321/a21n, viet jet air, w
+	hvn, 10, a359/b789, viet nam airlines, w
+	chb, 10, a320, west china, w
+	cxa, 10, b737/b738, xiamen air, w
 #cargo
-	cao, 1, b77l, air china freight, n
-	ana, 2, b763/b77l
-	aar, 1, b744, asiana, n
-	icv, 1, b744, cargolux italia, n
-	cpa, 1, b744/b748, cathay, s
-	cal, 1, b744, dynasty, s
-	ckk, 1, b744/b77l, cargo king, w
-	cyz, 1, b733/b734, china post, w
-	ahk, 1, a306, air hong kong, s
-	eva, 1, b77l, eva, s
-	fdx, 4, b77l/md11/b763, fedex, eswn
-	kal, 1, b744/b748/b77l, korean air, n
-	gec, 1, b77l/md11, lufthansa cargo, n
-	nca, 1, b744/b748, nippon cargo, se
-	qtr, 1, b77l, qatari, sw
-	csc, 1, a332, sichuan, w
-	azg, 1, b744/b748, silk west, n
-	yzr, 1, b733/b734/b744, yangtze river, w
-	ups, 3, b744/b748/b763/md11, u p s, ew
+	cao, 10, b77l, air china freight, n
+	ana, 20, b763/b77l
+	aar, 10, b744, asiana, n
+	icv, 10, b744, cargolux italia, n
+	cpa, 10, b744/b748, cathay, s
+	cal, 10, b744, dynasty, s
+	ckk, 10, b744/b77l, cargo king, w
+	cyz, 10, b733/b734, china post, w
+	ahk, 10, a306, air hong kong, s
+	eva, 10, b77l, eva, s
+	fdx, 40, b77l/md11/b763, fedex, eswn
+	kal, 10, b744/b748/b77l, korean air, n
+	gec, 10, b77l/md11, lufthansa cargo, n
+	nca, 10, b744/b748, nippon cargo, se
+	qtr, 10, b77l, qatari, sw
+	csc, 10, a332, sichuan, w
+	azg, 10, b744/b748, silk west, n
+	yzr, 10, b733/b734/b744, yangtze river, w
+	ups, 30, b744/b748/b763/md11, u p s, ew
 #ga
-#	ja-123a, 1, c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
+	ja-123a, 1, c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
 	ja-12ab, 1, c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
-#	ja-1234, 1, c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
+	ja-1234, 1, c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
+	n-12345, 1, c25m/c525/c25a/glf5/glf6/lj35/glex, 0, nswe
+	n-123ab, 1, c25m/c525/c25a/glf5/glf6/lj35/glex/b737/a319, 0, nswe
 
 [airport2]
 name = Kobe
@@ -609,17 +611,17 @@ sids =
 	ASAGI, N35.02.37.24, E134.45.02.37, Ahsahgi
 
 airlines = 
-	ana, 2, a320/a20n/b737/b738/b763, all neeppon, ne
-	ana, 5, a320/a20n/b737/b738/b763, all neeppon, ne
-	ado, 2, b737/b763, air do, e
-	ado, 1, b737/b763, air do, n
-	fda, 3, e170/e175, fuji dream, wns
-	sky, 3, b738, skymark, wesn
-	snj, 1, b738, new sky, s
+	ana, 20, a320/a20n/b737/b738/b763, all neeppon, ne
+	ana, 50, a320/a20n/b737/b738/b763, all neeppon, ne
+	ado, 20, b737/b763, air do, e
+	ado, 10, b737/b763, air do, n
+	fda, 30, e170/e175, fuji dream, wns
+	sky, 30, b738, skymark, wesn
+	snj, 10, b738, new sky, s
 #ga
-#	ja-123a, 1, c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
+	ja-123a, 1, c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
 	ja-12ab, 1, c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
-#	ja-1234, 1, c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
+	ja-1234, 1, c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
 #	ja-123a, 1, be58/p46t/t206/c172/kodi/p68/pa46/c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
 #	ja-12ab, 1, be58/p46t/t206/c172/kodi/p68/pa46/c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
 #	ja-1234, 1, be58/p46t/t206/c172/kodi/p68/pa46/c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
@@ -687,35 +689,17 @@ sids =
 
 
 airlines = 
-	jal, 10, b763/b772/b773/b788/b789/a359, japan air, e
-	jal, 10, b763/b772/b773/b788/b789/a359, japan air, e
-	jal, 10, b763/b772/b773/b788/b789/a359, japan air, e
-	jal, 9, b738/b763/b772/b773/b788/b789/a359, japan air, nswe
-	jal, 9, b738/b763/b772/b773/b788/b789/a359, japan air, nswe
-	jal, 9, b738/b763/b772/b773/b788/b789/a359, japan air, nswe
+	jal, 300, b763/b772/b773/b788/b789/a359, japan air, e
+	jal, 270, b738/b763/b772/b773/b788/b789/a359, japan air, nswe
 #jlj
-	jal, 6, e170/e190, japan air, nwe
-	jal, 6, e170/e190, japan air, nwe
-	jal, 6, e170/e190, japan air, nwe
-	ana, 10, b763/b772/b773/b788/b789, all neeppon, e
-	ana, 10, b763/b772/b773/b788/b789, all neeppon, e
-	ana, 10, b763/b772/b773/b788/b789, all neeppon, e
-	ana, 8, a320/a20n/a321/a21n/b737/b738/b763/b772/b773/b788/b789, all neeppon, nswe
-	ana, 8, a320/a20n/a321/a21n/b737/b738/b763/b772/b773/b788/b789, all neeppon, nswe
-	ana, 8, a320/a20n/a321/a21n/b737/b738/b763/b772/b773/b788/b789, all neeppon, nswe
-	akx, 5, dh8d, alfa wing, nwse
-	akx, 5, dh8d, alfa wing, nwse
-	akx, 5, dh8d, alfa wing, nwse
-	ibx, 3, crj7, ibex, wne
-	ibx, 3, crj7, ibex, wne
-	ibx, 3, crj7, ibex, wne
-	ahx, 1, at46, amakusa air, w
-	ahx, 1, at46, amakusa air, w
-	ahx, 1, at46, amakusa air, w
-	jac, 1, at46/at76, commuter, s
-	jac, 1, at46/at76, commuter, s
-	jac, 1, at46/at76, commuter, s
-#	jf-1, 1, b77w, japan air force, nswe
+	jal, 180, e170/e190, japan air, nwe
+	ana, 300, b763/b772/b773/b788/b789, all neeppon, e
+	ana, 240, a320/a20n/a321/a21n/b737/b738/b763/b772/b773/b788/b789, all neeppon, nswe
+	akx, 150, dh8d, alfa wing, nwse
+	ibx, 90, crj7, ibex, wne
+	ahx, 5, at46, amakusa air, w
+	jac, 50, at46/at76, commuter, s
+	jf-1, 1, b77w, japan air force, nswe
 	cygns-1, 1, b77w, sig nus, nswe
 
 [airport4]
@@ -750,18 +734,22 @@ sids =
 	KOMPI, N34.10.02.08, E133.52.33.07
 
 airlines = 
-	jal, 5, b738, japan air, e
-	jal, 1, e170, japan air, w
-	ana, 5, a320/a20n/a321/a21n/b737/b738, all neeppon, e
-	focus-1, 1, be9l, focus, s
-	king-1, 10, be9l, king, s
-	king-12, 3, be9l, king, s
-#	cupid-1, 1, lj35, cupid, nswe
-#	ascot-1, 1, h25b, ascot, nswe
+	jal, 50, b738, japan air, e
+	jal, 10, e170, japan air, w
+	ana, 50, a320/a20n/a321/a21n/b737/b738, all neeppon, e
+	focus-1, 10, be9l, focus, s
+	king-1, 100, be9l, king, s
+	king-12, 30, be9l, king, s
+	cupid-1, 1, lj35, cupid, nswe
+	ascot-1, 1, h25b, ascot, nswe
+	pgsus-1, 1, p1, pegasus, s
+	camel-1, 1, c130, camel, e
+	comet-1, 1, kc2, comet, n
+
 #ga
-#	ja-123a, 1, c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
+	ja-123a, 1, c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
 	ja-12ab, 1, c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
-#	ja-1234, 1, c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
+	ja-1234, 1, c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
 #	ja-123a, 1, be58/p46t/t206/c172/kodi/p68/pa46/c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
 #	ja-12ab, 1, be58/p46t/t206/c172/kodi/p68/pa46/c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
 #	ja-1234, 1, be58/p46t/t206/c172/kodi/p68/pa46/c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
@@ -796,19 +784,19 @@ sids =
 	MIHOU, N35.31.52.02, E133.05.38.09
 
 airlines = 
-	jal, 7, b738, japan air, e
-	jjp, 3, a320, orange liner, e
-	ana, 5, a320/a20n/b737/b738, all neeppon, e
-	akx, 1, a320/a20n/b737/b738, alfa wing, w
-	akx, 1, a320/a20n/b737/b738, alfa wing, e
-	hke, 1, a320/a20n, hong kong shuttle, w
-	cqh, 1, a320, air spring, w
-	cal, 1, b738, dynasty, w
-	asv, 1, a320, air seoul, n
+	jal, 70, b738, japan air, e
+	jjp, 30, a320, orange liner, e
+	ana, 50, a320/a20n/b737/b738, all neeppon, e
+	akx, 10, a320/a20n/b737/b738, alfa wing, w
+	akx, 10, a320/a20n/b737/b738, alfa wing, e
+	hke, 10, a320/a20n, hong kong shuttle, w
+	cqh, 10, a320, air spring, w
+	cal, 10, b738, dynasty, w
+	asv, 10, a320, air seoul, n
 #ga
-#	ja-123a, 1, c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
+	ja-123a, 1, c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
 	ja-12ab, 1, c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
-#	ja-1234, 1, c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
+	ja-1234, 1, c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
 #	ja-123a, 1, be58/p46t/t206/c172/kodi/p68/pa46/c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
 #	ja-12ab, 1, be58/p46t/t206/c172/kodi/p68/pa46/c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
 #	ja-1234, 1, be58/p46t/t206/c172/kodi/p68/pa46/c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
@@ -846,19 +834,19 @@ sids =
 #minor fixes
 
 airlines = 
-	jal, 6, b738, japan air, e
-	jta, 1, b738, jai ocean, w
-	ana, 3, a321, all neeppon, e
-	ana, 1, b738, all neeppon, e
-	ana, 1, b738, all neeppon, n
-	kal, 1, bcs3, korean air, n
-	ces, 1, a320, china eastern, w
-	crk, 1, a320, bauhinia, w
-	ttw, 1, a320, smart cat, w
+	jal, 60, b738, japan air, e
+	jta, 10, b738, jai ocean, w
+	ana, 30, a321, all neeppon, e
+	ana, 10, b738, all neeppon, e
+	ana, 10, b738, all neeppon, n
+	kal, 10, bcs3, korean air, n
+	ces, 10, a320, china eastern, w
+	crk, 10, a320, bauhinia, w
+	ttw, 10, a320, smart cat, w
 #ga
-#	ja-123a, 1, c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
+	ja-123a, 1, c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
 	ja-12ab, 1, c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
-#	ja-1234, 1, c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
+	ja-1234, 1, c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
 #	ja-123a, 1, be58/p46t/t206/c172/kodi/p68/pa46/c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
 #	ja-12ab, 1, be58/p46t/t206/c172/kodi/p68/pa46/c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
 #	ja-1234, 1, be58/p46t/t206/c172/kodi/p68/pa46/c25m/c525/c25a/hdjt/glf5/glf6, 0, nswe
@@ -5277,8 +5265,8 @@ route1 =
 #KTE +5000
 	N34.12.44.99, E134.01.21.33, 7000, 230
 #KTE R065 12.5DME
-	N34.19.21.00, E134.14.11.00, 4000, 200
-	N34.16.55.44, E134.16.59.48, 3600, 200
+	N34.19.21.00, E134.14.11.00, 3600, 200
+#	N34.16.55.44, E134.16.59.48, 3600, 200
 #intercept IKT +3600
 	10, 3600, 180
 #SANPO
@@ -5340,8 +5328,8 @@ route1 =
 #KTE +5000
 	N34.12.44.99, E134.01.21.33, 7000, 230
 #KTE R065 12.5DME
-	N34.19.21.00, E134.14.11.00, 4000, 200
-	N34.16.55.44, E134.16.59.48, 3600
+	N34.19.21.00, E134.14.11.00, 3600, 200
+#	N34.16.55.44, E134.16.59.48, 3600, 200
 #intercept IKT +3600
 	N34.16.07, E134.13.52, 3600, 200
 #SANPO
@@ -5430,8 +5418,8 @@ route1 =
 #KTE +5000
 	N34.12.44.99, E134.01.21.33, 7000, 230
 #KTE R065 12.5DME
-	N34.19.21.00, E134.14.11.00, 4000, 200
-	N34.16.55.44, E134.16.59.48, 3600, 200
+	N34.19.21.00, E134.14.11.00, 3600, 200
+#	N34.16.55.44, E134.16.59.48, 3600, 200
 #intercept IKT +3600
 	10, 3600, 180
 #SANPO
@@ -5558,8 +5546,8 @@ route1 =
 #KTE +5000
 	N34.12.44.99, E134.01.21.33, 7000, 230
 #KTE R065 12.5DME
-	N34.19.21.00, E134.14.11.00, 4000, 200
-	N34.16.55.44, E134.16.59.48, 3600
+	N34.19.21.00, E134.14.11.00, 3600, 200
+#	N34.16.55.44, E134.16.59.48, 3600, 200
 #intercept IKT +3600
 	N34.16.07, E134.13.52, 3600, 200
 #SANPO
@@ -8153,3 +8141,7 @@ config4 =
 types = 
 	hdjt, 6, 140, 250, 2.8, 3.2, 1500, 1800, 115, 125, 1.3, 1.5, honda jet
 	be9l, 6, 90, 208, 2.8, 3.2, 1400, 1600, 100, 110, 1.2, 1.4, beech
+	h25b, 6, 150, 250, 2.8, 3.2, 1400, 1600, 110, 120, 1.2, 1.3, hawker
+	p1, 4, 160, 250, 2.8, 3.2, 1500, 1700, 130, 144, 1.3, 1.5, kawasaki
+	kc2, 4, 150, 250, 2.8, 3.2, 1500, 1800, 110, 130, 1.3, 1.5, kawasaki
+	c130, 4, 140, 250, 2.8, 3.2, 1400, 1700, 110, 130, 1.3, 1.5, hercules
